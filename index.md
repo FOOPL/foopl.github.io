@@ -46,6 +46,23 @@ FOOPL 2018 invites contributions in the form of papers that are no more than **4
 
 ### Program Committee
 
+- Aggelos Biboudis, École Polytechnique Fédérale de Lausanne
+- Yoonsik Cheon, University of Texas at El Paso
+- Shigeru Chiba, University of Tokyo
+- David Chiu, University of Puget Sound
+- Robert Dyer, Bowling Green State University
+- George Fourtounis, University of Athens
+- Alex Gyori, Facebook
+- Yuheng Long, Google
+- Hidehiko Masuhara, Tokyo Institute of Technology
+- Davood Mazinanian, University of British Columbia
+- Hua Ming, Oakland University
+- Sebastian Nielebock, Otto von Guericke University
+- Hoan Nguyen, Iowa State University
+- Subash Shankar, City University of New York (CUNY) Hunter College
+- Nikolaos Tsantalis, Concordia University
+- Ganesha Upadhyaya, Huawei R&D
+
 ## Important Dates
 
 Event | Date
