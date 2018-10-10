@@ -37,6 +37,15 @@ Topics of interest include, but are not limited to:
 
 FOOPL 2018 invites contributions in the form of papers that are no more than **4 pages** in length. Submissions can stem from either academia or industry. We also welcome industrial and educational talk abstracts. Research papers, practice papers, position papers, and experience reports are all welcomed. All submissions should describe unpublished work and must have been neither previously accepted for publication nor concurrently submitted for review in another journal, book, conference, or workshop. Submissions are peer-reviewed and accepted papers will appear in the workshop proceedings.
 
+## Committees
+
+### Organizing Committee
+
+-   [Raffi Khatchadourian], City University of New York (CUNY) Hunter College
+-   [Mehdi Bagherzadeh], Oakland University
+
+### Program Committee
+
 ## Important Dates
 
 Event | Date
@@ -48,3 +57,6 @@ Event | Date
 ## Notes
 
 The official publication date of the workshop proceedings is the date the proceedings are made available in the ACM Library. This date may be up to two weeks prior to the first day of ICSE 2019. The official publication date affects the deadline for any patent filings related to published work.
+
+[Raffi Khatchadourian]: http://www.cs.hunter.cuny.edu/~Raffi.Khatchadourian99
+[Mehdi Bagherzadeh]: https://oakland.edu/secs/directory/bagherzadeh
