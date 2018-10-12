@@ -62,6 +62,7 @@ FOOPL 2018 invites contributions in the form of papers that are no more than **4
 - Subash Shankar, City University of New York (CUNY) Hunter College
 - Nikolaos Tsantalis, Concordia University
 - Ganesha Upadhyaya, Huawei R&D
+- Erik Wittern, IBM T. J. Watson Research Center
 
 ## Important Dates
 
